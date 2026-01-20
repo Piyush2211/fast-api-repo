@@ -38,4 +38,7 @@ pip install "fastapi[standard]"
   "yeh command basically hamari application koh cloud keh andar changes  karne keh liye use hoti hai   
   ```  
   • fastapi --help use karnge fastapi cli keh baare meh ham aur cheeze jaan skate hai 
-  
+
+-Building  a CRUD REST API
+ • crud kuch  nahi hai create read update delete of a resourse koh kehte hai 
+ • crud basically data storage applications keh andar use hota hai toh manage the data  
